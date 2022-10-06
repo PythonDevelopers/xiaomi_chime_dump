@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=chime
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=Poco M3
+ro.product.bootimage.name=derp_chime
+ro.bootimage.build.date=Sun Oct  2 03:34:57 UTC 2022
+ro.bootimage.build.date.utc=1664681697
+ro.bootimage.build.fingerprint=
+ro.bootimage.build.id=TP1A.220905.004
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=eng.privat.20221002.033711
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
