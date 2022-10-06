@@ -1,0 +1,25 @@
+====================
+    10-02-2022     
+====================
+
+====================
+    10-01-2022     
+====================
+
+====================
+    09-30-2022     
+====================
+
+====================
+    09-29-2022     
+====================
+
+====================
+    09-28-2022     
+====================
+
+* tools/extract-utils
+ebdf73f  extract-utils: egrep: warning: egrep is obsolescent; using grep -E  [Chirayu Desai]
+0456377  extract_utils: fix generating system/bin & system/etc blueprint  [Luca Weiss]
+
+
