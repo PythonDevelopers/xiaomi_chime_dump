@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Xiaomi
+ro.product.odm_dlkm.device=chime
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=Redmi 9T
+ro.product.odm_dlkm.name=aosp_chime
+ro.odm_dlkm.build.date=Fri Sep 30 10:08:11 IST 2022
+ro.odm_dlkm.build.date.utc=1664512691
+ro.odm_dlkm.build.fingerprint=google/raven/raven:12/SQ3A.220705.003/8671607:user/release-keys
+ro.odm_dlkm.build.id=SQ3A.220705.004
+ro.odm_dlkm.build.tags=test-keys
+ro.odm_dlkm.build.type=userdebug
+ro.odm_dlkm.build.version.incremental=1664512938
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=32
+# end of file
